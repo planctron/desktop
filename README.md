@@ -10,6 +10,6 @@ on the "daedalOS" "Desktop.
 
 # Experimental #
 - This "bare desktop" version does contain little content. Dustins work has lead to a stable and versatile work place. Though the majority of legacy games and programs are not required for work.
-- This version is an experiemental "core" of deadalOS, meant to stage content from a server.
+- This version is an experimental "core" of deadalOS, meant to stage content from a server.
 - The main directory of programs and data should be mapped into a docker container as shown soon in the instructions.
 - The image should get updates from daedalOS upstream frequently.
